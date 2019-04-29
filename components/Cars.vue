@@ -29,7 +29,3 @@ import { Component, Vue } from 'vue-property-decorator';
 
 export default class Cars extends Vue {}
 </script>
-
-<style lang="scss">
-
-</style>
